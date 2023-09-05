@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://github.com/ultraverunchik/Profile-design/blob/main/Python-logo-notext.svg.png"></code>
   <code><img height="40" src="https://github.com/ultraverunchik/Profile-design/blob/main/Microsoft_Office_Excel_(2019%E2%80%93present).svg.png"></code>
-  <code><img height="40" src="https://github.com/ultraverunchik/Profile-design/blob/main/Microsoft-PowerPoint-Logo.jpg"></code>
+  <code><img height="40" src="https://github.com/ultraverunchik/Profile-design/blob/main/Microsoft_Office_PowerPoint_(2019%E2%80%93present).svg.png"></code>
   <code><img height="40" src="https://github.com/ultraverunchik/Profile-design/blob/main/640px-Jupyter_logo.svg.png"></code>
   <code><img height="40" src="https://github.com/ultraverunchik/Profile-design/blob/main/Postgresql_elephant.svg.png"></code>
   <code><img height="40" src="https://github.com/ultraverunchik/Profile-design/blob/main/85-851058_anaconda-icon-anaconda-python-icon.png"></code>
